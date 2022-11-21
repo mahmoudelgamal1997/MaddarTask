@@ -5,8 +5,6 @@ name: Generate a Sign APK
 on:
   push:
 
-before_install:
-  - chmod +x gradlew
 
 jobs:
 
